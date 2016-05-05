@@ -1,6 +1,6 @@
 class hello
 {
-	public static boolean main(String args[])
+	public static void main(String args[])
 	{
 		return true;
 	}
